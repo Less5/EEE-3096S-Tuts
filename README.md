@@ -1,1 +1,1 @@
-# EEE-3096S-Tuts
+# EEE-3096S-Tuts/Pracs
